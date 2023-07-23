@@ -2,6 +2,8 @@
 
 > A curated list of Awesome Microsoft offensive and defensive security tools.
 
+Contributions welcome! Please, read the [contribution guidelines](contributing.md) first.
+
 ## Contents
 
 - [Offensive](#offensive)
